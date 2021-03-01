@@ -1,0 +1,17 @@
+{
+  "name": "@yeegor/github-activity",
+  "version": "1.0.0",
+  "description": "Github activity measurer by @yeegor",
+  "main": "index.js",
+  "author": "Jegors Batovs <yegor.batov@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "gql-query-builder": "^3.5.5",
+    "node-fetch": "^2.6.1"
+  }
+}
